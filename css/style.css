@@ -12,6 +12,11 @@
 }
 a {
   color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+  text-decoration: none;
 }
 hr {
   display: inline-block;
@@ -27,7 +32,6 @@ hr {
 }
 .ms_star {
   margin-bottom: 20px;
-  display: inline-block;
 }
 .ms_button {
   background-color: #1abc9c;
